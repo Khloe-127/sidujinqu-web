@@ -1,14 +1,14 @@
 # "/" + 仓库的名字. 资源文件的路径组成部分
 baseurl: '/sidujinqu-web'
-baseurl_posts_img: '/Girls-Coding-Day-Jekyll-blog-3/assets/images/posts/'
-baseurl_featured_img: '/Girls-Coding-Day-Jekyll-blog-3/assets/images/hero/'
-baseurl_featured_thumbnail: '/Girls-Coding-Day-Jekyll-blog-3/assets/images/thumbnail/'
+baseurl_posts_img: '/Girls-Coding-Day-Jekyll-blog-3/assets/images/'
+baseurl_featured_img: '/Girls-Coding-Day-Jekyll-blog-3/assets/images/'
+baseurl_featured_thumbnail: '/Girls-Coding-Day-Jekyll-blog-3/assets/images/'
 baseurl_javascripts: '/Girls-Coding-Day-Jekyll-blog-3/assets/javascripts/'
 
 # 网页的标题
-title: "四都金曲的太空舱~"
-## 网站的主标题
-name: "Hi，这里是四都金曲💫"
+title: "金曲的太空舱~"
+# 网站的主标题
+name: "Hi，这里是金曲💫"
 description: "欢迎来到我的小小太空舱💨这里将记录我的点点滴滴~"
 
 url: site url

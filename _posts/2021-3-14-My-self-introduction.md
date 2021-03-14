@@ -2,7 +2,7 @@
 layout: post
 title:  "来自凉山的姑娘--金曲"
 image:
-  feature: 001.jpg
+  feature: 金曲.jpg
   topPosition: 0px
 bgContrast: dark
 bgGradientOpacity: darker

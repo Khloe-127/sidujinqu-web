@@ -1,13 +1,13 @@
-    ---
+---
 layout: post
-title:  "我来自四川凉山州"
+title:  "来自凉山的姑娘--金曲"
 image:
   feature: 001.jpg
   topPosition: 0px
 bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no
-------
+---
 
 #### Hello，哥哥姐姐们~
 >很高兴认识你们💜

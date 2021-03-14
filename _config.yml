@@ -7,9 +7,9 @@ baseurl_javascripts: '/Girls-Coding-Day-Jekyll-blog-3/assets/javascripts/'
 
 # 网页的标题
 title: "四都金曲的太空舱~"
-# 网站的主标题
+## 网站的主标题
 name: "Hi，这里是四都金曲💫"
-description: "欢迎来到我的太空舱💨"
+description: "欢迎来到我的小小太空舱💨这里将记录我的点点滴滴~"
 
 url: site url
 icon: your site icon path # /assets/img/icon.png [best 300px X 300px]

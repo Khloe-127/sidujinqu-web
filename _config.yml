@@ -1,9 +1,9 @@
 # "/" + 仓库的名字. 资源文件的路径组成部分
 baseurl: '/sidujinqu-web'
-baseurl_posts_img: '/Girls-Coding-Day-Jekyll-blog-3/assets/images/jinqu.jpg'
-baseurl_featured_img: '/Girls-Coding-Day-Jekyll-blog-3/assets/images/'
-baseurl_featured_thumbnail: '/Girls-Coding-Day-Jekyll-blog-3/assets/images/'
-baseurl_javascripts: '/Girls-Coding-Day-Jekyll-blog-3/assets/javascripts/'
+baseurl_posts_img: '/sidujinqu-web/assets/images/jinqu.jpg'
+baseurl_featured_img: '/sidujinqu-web/assets/images/hero'
+baseurl_featured_thumbnail: '/sidujinqu-web/assets/images/thumbnail'
+baseurl_javascripts: '/sidujinqu-web/assets/javascripts/'
 
 # 网页的标题
 title: "金曲的太空舱~"

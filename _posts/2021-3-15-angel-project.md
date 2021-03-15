@@ -1,8 +1,7 @@
 ---
-layout： post
 title:  "关于强棒天使计划"
 image:
-  feature: 001.jpg
+  feature: angel.jpg
   topPosition: 0px
 bgContrast: dark
 bgGradientOpacity: darker

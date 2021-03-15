@@ -1,6 +1,6 @@
 # "/" + 仓库的名字. 资源文件的路径组成部分
 baseurl: '/sidujinqu-web'
-baseurl_posts_img: '/Girls-Coding-Day-Jekyll-blog-3/assets/images/'
+baseurl_posts_img: '/Girls-Coding-Day-Jekyll-blog-3/assets/images/jinqu.jpg'
 baseurl_featured_img: '/Girls-Coding-Day-Jekyll-blog-3/assets/images/'
 baseurl_featured_thumbnail: '/Girls-Coding-Day-Jekyll-blog-3/assets/images/'
 baseurl_javascripts: '/Girls-Coding-Day-Jekyll-blog-3/assets/javascripts/'

@@ -2,7 +2,7 @@
 title:  "来自凉山的姑娘--金曲"
 image:
   feature: /sidujinqu-web/assets/images/jinqu.jpg
-  topPosition: 200px
+  topPosition: 0px
 bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no

@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "来自凉山的姑娘--金曲"
 image:
   feature: jinqu.jpg

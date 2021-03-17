@@ -2,7 +2,7 @@
 layout: post
 title:  "关于强棒天使计划"
 image:
-  feature: angel.jpg
+  feature: 2.jpeg
   topPosition: 0px
 bgContrast: dark
 bgGradientOpacity: darker

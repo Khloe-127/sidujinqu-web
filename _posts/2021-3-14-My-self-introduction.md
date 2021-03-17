@@ -2,8 +2,8 @@
 layout: post
 title:  "来自凉山的姑娘--金曲"
 image:
-  feature: jinqu.jpg
-  topPosition: 0px
+  feature: 1.jpeg
+  topPosition: -50px
 bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no

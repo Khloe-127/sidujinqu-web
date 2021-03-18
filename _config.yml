@@ -1,8 +1,8 @@
 # "/" + 仓库的名字. 资源文件的路径组成部分
 baseurl: '/sidujinqu-web'
 baseurl_posts_img: '/sidujinqu-web/assets/images/post'
-baseurl_featured_img: '/sidujinqu-web/assets/images/hero'
-baseurl_featured_thumbnail: '/sidujinqu-web/assets/images/thumbnail'
+baseurl_featured_img: '/sidujinqu-web/assets/images/hero/'
+baseurl_featured_thumbnail: '/sidujinqu-web/assets/images/thumbnail/'
 baseurl_javascripts: '/sidujinqu-web/assets/javascripts/'
 
 # 网页的标题

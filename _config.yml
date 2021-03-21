@@ -1,15 +1,15 @@
 # "/" + 仓库的名字. 资源文件的路径组成部分
 baseurl: '/sidujinqu-web'
 baseurl_posts_img: '/sidujinqu-web/assets/images/post'
-baseurl_featured_img: '/sidujinqu-web/assets/images/hero'
-baseurl_featured_thumbnail: '/sidujinqu-web/assets/images/thumbnail'
+baseurl_featured_img: '/sidujinqu-web/assets/images/hero/'
+baseurl_featured_thumbnail: '/sidujinqu-web/assets/images/thumbnail/'
 baseurl_javascripts: '/sidujinqu-web/assets/javascripts/'
 
 # 网页的标题
-title: "金曲的太空舱~"
+title: "Welcome to my world~"
 # 网站的主标题
-name: "Hi! 这里是金曲💫..."
-description: "欢迎来到我的小小太空舱💨这里将记录我的点点滴滴~"
+name: "Hi! have a good time~.✌.🤞."
+description: "这是我的小小太空舱💨这里将记录我的点点滴滴~"
 
 url: site url
 icon: your site icon path # /assets/img/icon.png [best 300px X 300px]
